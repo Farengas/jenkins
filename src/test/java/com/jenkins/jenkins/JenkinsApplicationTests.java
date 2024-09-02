@@ -16,6 +16,7 @@ class JenkinsApplicationTests {
 		logger.info("Test case executing...");
 		logger.info("Secondo Test case executing...");
 		logger.info("S5y65t5t564t465t654t654tTest case executing...");
+		logger.info("prova provatTest case executing...");
 		assertEquals(true, true);
 	}
 
