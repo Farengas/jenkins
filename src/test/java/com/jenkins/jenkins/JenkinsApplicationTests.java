@@ -14,6 +14,7 @@ class JenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing...");
+		logger.info("Secondo Test case executing...");
 		assertEquals(true, true);
 	}
 
