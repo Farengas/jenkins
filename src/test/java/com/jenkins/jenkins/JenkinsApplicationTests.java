@@ -12,7 +12,7 @@ class JenkinsApplicationTests {
 	public static org.slf4j.Logger logger = LoggerFactory.getLogger(JenkinsApplication.class);
 
 	@Test
-	void contextLoads() {
+ contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Secondo Test case executing...");
 		logger.info("S5y65t5t564t465t654t654tTest case executing...");
