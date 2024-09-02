@@ -10,9 +10,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class JenkinsApplicationTests {
 	public static org.slf4j.Logger logger = LoggerFactory.getLogger(JenkinsApplication.class);
-
+// GIANNIII
 	@Test
-	public contextLoads() {
+	void contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Secondo Test case executing...");
 		assertEquals(true, true);
